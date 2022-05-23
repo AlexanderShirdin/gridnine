@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gridnine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gridnine_jar</output-path>
+    <root id="archive" name="gridnine.jar">
+      <element id="module-output" name="gridnine" />
+    </root>
+  </artifact>
+</component>
